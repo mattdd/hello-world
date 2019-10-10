@@ -1,3 +1,3 @@
 # hello-world
 My first repository
-This branch has redits to the readme
+This branch has edits to the readme
